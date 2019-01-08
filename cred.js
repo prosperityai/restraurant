@@ -1,7 +1,7 @@
 module.exports = {
     AT:{
         apiKey: 'YourAPI-Key',
-        username: 'prosperityai',
+        username: 'Your UserName',
         format: 'json'
     },
     pusher:{
